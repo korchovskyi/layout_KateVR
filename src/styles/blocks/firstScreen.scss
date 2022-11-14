@@ -1,0 +1,19 @@
+.first-screen {
+  height: 740px;
+  background: linear-gradient(107.56deg, #191536 0%, #000 100%);
+
+  &__main-offer {
+    margin-top: 115px;
+
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 60px;
+
+    color: #fff;
+
+    & span {
+      font-weight: 400;
+      color: #05c2df;
+    }
+  }
+}
